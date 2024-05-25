@@ -14,7 +14,7 @@
 <p >
     <a href="https://www.linkedin.com/in/joao-felipe-vilas/">Linkedin</a>
     <br>
-    <a href="https://https://github.com/Vilasz">Github</a>
+    <a href="https://github.com/Vilasz">Github</a>
     <br>
     <a href="mailto:jfvb2501@gmail.com">Email</a>
 </p>
