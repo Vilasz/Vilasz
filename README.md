@@ -3,7 +3,7 @@
 </strong>
 
 <p >
-    I'm a brazilian Engineering student who found passion in Data Science. Taking advantage of the solid math background provided by my major, I'm currently enrolled in classes, extracurricular activities and personal projects in Data Science-related fields.
+    I'm a brazilian Data Science and AI student who found passion in Data Science, Software Engineering and Economics. Taking advantage of the solid math background provided by my major, I'm currently enrolled in classes, extracurricular activities and personal projects in Data Science-related fields and Economics/Business activities.
 </p>
 
 
