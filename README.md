@@ -6,6 +6,11 @@
     I'm a brazilian Data Science and AI student who found passion in Data Science, Software Engineering and Economics. Taking advantage of the solid math background provided by my major, I'm currently enrolled in classes, extracurricular activities and personal projects in Data Science-related fields and Economics/Business activities.
 </p>
 
+<div align="center">
+  <a href="https://github.com/gtironi">
+  <img height="180em" width = 49%  src="https://github-readme-stats.vercel.app/api?username=Vilasz&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="180em" width = 49%  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vilasz&layout=compact&theme=codeSTACKr&langs_count=6&size_weight=0.05&count_weight=0.7&hide=css,html"/>
+</div>
 
 <h4>
     Contact:
@@ -31,6 +36,14 @@
 
 ![](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+
+<div align="center">
+  <div style="display: inline_block"><br>
+    <img alt= "html" align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
+    <img alt= "css"  align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
+    <img alt="react" align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>    
+  </div>
+</div>
 
 
 
