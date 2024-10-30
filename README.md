@@ -12,8 +12,6 @@
   <img height="180em" width = 49%  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vilasz&layout=compact&theme=codeSTACKr&langs_count=6&size_weight=0.05&count_weight=0.7&hide=css,html"/>
 </div>
 
-<img height="25" src="https://komarev.com/ghpvc/?username=Vilasz&color=brightgreen"/>
-
 <h4>
     Contact:
 </h4>
