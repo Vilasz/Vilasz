@@ -10,9 +10,9 @@
   <a href="https://github.com/Vilasz">
   <img height="180em" width = 49%  src="https://github-readme-stats.vercel.app/api?username=Vilasz&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height="180em" width = 49%  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vilasz&layout=compact&theme=codeSTACKr&langs_count=6&size_weight=0.05&count_weight=0.7&hide=css,html"/>
-  <img height="25" src="https://komarev.com/ghpvc/?username=Vilasz&color=brightgreen"/>
-
 </div>
+
+<img height="25" src="https://komarev.com/ghpvc/?username=Vilasz&color=brightgreen"/>
 
 <h4>
     Contact:
@@ -46,6 +46,8 @@
     <img alt="react" align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>    
   </div>
 </div>
+
+__________________________________
 
 
 
