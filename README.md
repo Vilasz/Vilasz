@@ -10,7 +10,6 @@
   <a href="https://github.com/gtironi">
   <img height="180em" width = 49%  src="https://github-readme-stats.vercel.app/api?username=Vilasz&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height="180em" width = 49%  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vilasz&layout=compact&theme=codeSTACKr&langs_count=6&size_weight=0.05&count_weight=0.7&hide=css,html"/>
-  <img height="180em" width="49%" src="https://activity-graph.herokuapp.com/graph?username=Vilasz&theme=react-dark&bg_color=20232a&hide_border=true&color=61dafb&line=61dafb&point=ffffff"/>
   <img height="25" src="https://komarev.com/ghpvc/?username=Vilasz&color=brightgreen"/>
 
 </div>
