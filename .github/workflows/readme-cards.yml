@@ -12,21 +12,24 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v4
+
+      - name: Ensure output dir exists
+        run: mkdir -p profile
 
       - name: Generate stats card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: soulteary/github-readme-stats-action@v1.0.0
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=codeSTACKr&include_all_commits=true
+          options: 'username=${{ github.repository_owner }}&show_icons=true&theme=codeSTACKr&include_all_commits=true'
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: soulteary/github-readme-stats-action@v1.0.0
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&theme=codeSTACKr&langs_count=6&hide=css,html
+          options: 'username=${{ github.repository_owner }}&layout=compact&theme=codeSTACKr&langs_count=6&hide=css,html'
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
