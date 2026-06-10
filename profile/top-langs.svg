@@ -160,7 +160,7 @@
           data-testid="lang-progress"
           x="0.00"
           y="0"
-          width="130.06"
+          width="130.09"
           height="8"
           fill="#3572A5"
         />
@@ -168,9 +168,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="130.06"
+          x="130.09"
           y="0"
-          width="104.57"
+          width="104.55"
           height="8"
           fill="#DA5B0B"
         />
@@ -178,7 +178,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="234.63"
+          x="234.64"
           y="0"
           width="19.29"
           height="8"
@@ -190,7 +190,7 @@
           data-testid="lang-progress"
           x="243.93"
           y="0"
-          width="12.81"
+          width="12.80"
           height="8"
           fill="#fedf5b"
         />
@@ -220,12 +220,12 @@
     <g transform="translate(0, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">Python 52.03%</text>
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">Python 52.04%</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#DA5B0B" />
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">Jupyter Notebook 41.83%</text>
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">Jupyter Notebook 41.82%</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
